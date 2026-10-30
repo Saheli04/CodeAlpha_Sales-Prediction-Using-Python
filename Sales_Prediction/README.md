@@ -1,7 +1,7 @@
 # 📈 Sales Prediction Using Machine Learning
 
 ## 📌 Project Overview
-This project predicts product sales based on advertising expenditure across TV, Radio, and Newspaper channels using machine learning regression models. It includes data analysis, model evaluation, advertising impact analysis, and an interactive Streamlit dashboard.
+This project predicts product sales based on advertising expenditure across TV, Radio, and Newspaper channels using machine learning regression models. It includes data analysis, model evaluation, advertising impact analysis, and an interactive Streamlit dashboard. 
 
 ## 🎯 Objectives
 - Clean and prepare advertising data for machine learning.
